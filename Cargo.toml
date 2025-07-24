@@ -1,0 +1,3 @@
+[workspace]
+members = ["binds", "editor", "engine", "sandbox"]
+resolver = "3"
